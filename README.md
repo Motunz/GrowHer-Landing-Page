@@ -88,7 +88,7 @@
 
 ```sudo nano index.html```
 
-- Confirmed landing page renders via EC2 public IP .
+- Confirmed landing page renders via EC2 public IP (13.40.229.156) .
 
 <img width="1664" alt="Greeting Page Displayed on EC2 IP" src="https://github.com/user-attachments/assets/7928b59b-5cf8-4aff-a602-017037c8833a" />
   
