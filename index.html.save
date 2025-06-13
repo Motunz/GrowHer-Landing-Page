@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Future of Women-Owned Businesses in the Digital Economy</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-center p-10">
+
+    <!-- Header Section -->
+  <h1 class="text-4xl font-bold text-blue-700">The Future of Women-Owned Businesses in the Digital Economy</h1>
+  <h2 class="text-xl mt-2"> Owolabi Barakat – Cloud Engineer & Social Impact Advocate</h2>
+
+  <!-- Project Pitch -->
+  <p class="mt-6 text-lg max-w-xl mx-auto">We're building a platform that empowers women entrepreneurs in underserved communities by giving them access to digital tools, micro-financing options, and an online marketplace to scale their businesses. 
+    By leveraging cloud infrastructure and secure payment systems, we’re breaking down barriers to financial inclusion and helping women-led businesses thrive globally.</p>
+
+<!-- Dynamic Greeting -->
+<p id="greeting" class="mt-4 text-lg font-medium text-blue-600"></p>
+
+<!-- About Section
+<!-- Contact Form -->
+<form action="https://formspree.io/f/xblyozvp" method="post" class="mt-10 
